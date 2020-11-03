@@ -1,2 +1,0 @@
-# azuretest
-azuretest
