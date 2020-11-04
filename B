@@ -1,3 +1,0 @@
-<html>
-<h1>This is B Server</h1>
-</html>
